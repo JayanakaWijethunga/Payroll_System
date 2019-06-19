@@ -1,0 +1,43 @@
+.pos-1{
+padding-top:50px;
+padding-left:25px;
+padding-right:25px;
+
+}
+
+.whole{
+
+background: #c2e59c;
+background: -webkit-linear-gradient(to right, #64b3f4, #c2e59c);  
+background: linear-gradient(to right, #64b3f4, #c2e59c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+
+    
+
+}
+
+.mytable{
+
+    background: #00d2ff;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #3a7bd5, #00d2ff);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #3a7bd5, #00d2ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+
+}
+
+.mains{
+    font-family: "Trebuchet MS", sans-serif;
+    font-size: 3em;
+    letter-spacing: -2px;
+    border-bottom: 2px solid black;
+    text-transform: uppercase;
+    color:#E74C3C;
+    text-shadow: 2px 2px black; 
+
+}
+
+.placing{
+    padding-left:85%;
+    padding-top:25px; 
+}
